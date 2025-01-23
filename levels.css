@@ -107,5 +107,5 @@
 }
 
 #level-6 .peas {
-  grid-column: repeat();
+  grid-column: repeat(auto-fit);
 }
